@@ -1,5 +1,5 @@
 {
-	"name": "malezha/TrinityWeb",
+	"name": "malezha/trinity-web",
 	"description": "CMS for TrinityCore",
 	"keywords": ["laravel", "trinitycore", "cms"],
 	"license": "MIT",

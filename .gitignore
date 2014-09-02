@@ -1,9 +1,10 @@
 /.idea
 /bootstrap/compiled.php
-/build
 /vendor
 composer.phar
 composer.lock
+coverage.clover
+ocular.phar
 .env.*.php
 .env.php
 .DS_Store
